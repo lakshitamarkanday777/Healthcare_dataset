@@ -84,8 +84,3 @@ Potential improvements include:
 2. Install required dependencies
 3. Run the Jupyter notebook to reproduce the analysis and models
 
-## License
-[Specify license information here]
-
-## Acknowledgements
-[Add any acknowledgements or data sources here]
